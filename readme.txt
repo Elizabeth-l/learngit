@@ -5,4 +5,6 @@ Git tracks changes of files.
 
 beautiful
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
+
